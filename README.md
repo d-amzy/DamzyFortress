@@ -7,7 +7,6 @@ Based in Lagos, Nigeria, we operate on a single, non-negotiable principle: secur
 
 ## Core Mastery
 
-*This is your current arsenal. These are the skills you can defend under pressure, today.*
 
 * **Backend Development:** Building and scaling secure, RESTful APIs using **Node.js** and **PHP/Laravel**.
 * **Frontend Development:** Crafting responsive and dynamic user interfaces with **React**.
@@ -18,7 +17,7 @@ Based in Lagos, Nigeria, we operate on a single, non-negotiable principle: secur
 
 ## The Fortress Stack: Mission-Critical Development
 
-*This is the future. This is the high-value territory we are currently conquering. Our active focus is on mastering the complete lifecycle of modern, cloud-native applications.*
+*Our active focus is on mastering the complete lifecycle of modern, cloud-native applications.*
 
 * **Go (Golang):** The language for high-performance, concurrent, and secure systems.
 * **Docker:** The standard for containerizing and deploying applications with consistency.
@@ -28,8 +27,6 @@ Based in Lagos, Nigeria, we operate on a single, non-negotiable principle: secur
 ---
 
 ## Technology Stack & Tools
-
-*This only reflects Core Mastery. Ambition is not a skill.*
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
